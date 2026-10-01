@@ -1,6 +1,6 @@
 """05. Nth Node from End (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def nth_from_end(head: ListNode | None, n: int) -> object | None:

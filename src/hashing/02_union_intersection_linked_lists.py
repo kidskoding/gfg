@@ -1,6 +1,6 @@
 """02. Union and Intersection of two Linked Lists (GFG, easy)."""
 
-from hashing.linked_list import ListNode
+from hashing import ListNode
 
 
 def union_lists(head1: ListNode | None, head2: ListNode | None) -> ListNode | None:

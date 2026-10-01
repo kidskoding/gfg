@@ -1,6 +1,6 @@
 """06. Children Sum Parent (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_sum_property(root: TreeNode | None) -> bool:

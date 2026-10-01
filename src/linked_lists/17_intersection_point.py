@@ -1,6 +1,6 @@
 """17. Intersection Point (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def intersection(head1: ListNode | None, head2: ListNode | None) -> ListNode | None:

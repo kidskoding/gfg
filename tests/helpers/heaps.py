@@ -1,6 +1,6 @@
 """Test-only helpers for heap problems."""
 
-from heaps.list_node import ListNode
+from heaps import ListNode
 
 
 def build_list(values):

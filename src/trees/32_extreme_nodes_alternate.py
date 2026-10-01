@@ -1,6 +1,6 @@
 """32. Extreme Nodes in Alternate Order (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def extreme_alternate(root: TreeNode | None) -> list[int]:

@@ -1,6 +1,6 @@
 """11. Balance a BST (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def balance_bst(root: TreeNode | None) -> TreeNode | None:

@@ -1,6 +1,6 @@
 """08. Merge Alternate Positions (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def merge_alternate(

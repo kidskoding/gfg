@@ -1,6 +1,6 @@
 """03. Mirror Tree (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def mirror(root: TreeNode | None) -> None:

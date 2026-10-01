@@ -1,6 +1,6 @@
 """22. BST to Max Heap (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def bst_to_max_heap(root: TreeNode | None) -> None:

@@ -1,6 +1,6 @@
 """22. Remove All Occurrences of a Given Key (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def delete_all_occurrences(head: ListNode | None, key: object) -> ListNode | None:

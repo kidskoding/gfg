@@ -1,6 +1,6 @@
 """16. Unique BSTs (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def count_unique_bsts(n: int) -> int:

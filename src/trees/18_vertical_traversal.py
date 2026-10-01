@@ -1,6 +1,6 @@
 """18. Vertical Traversal (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def vertical_order(root: TreeNode | None) -> list[list[int]]:

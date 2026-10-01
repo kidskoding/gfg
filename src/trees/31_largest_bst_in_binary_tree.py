@@ -1,6 +1,6 @@
 """31. Largest BST in a Binary Tree (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def largest_bst_size(root: TreeNode | None) -> int:

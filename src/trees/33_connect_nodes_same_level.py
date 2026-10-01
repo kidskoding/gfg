@@ -1,6 +1,6 @@
 """33. Connect Nodes at Same Level (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def connect_same_level(root: TreeNode | None) -> None:

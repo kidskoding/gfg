@@ -1,6 +1,6 @@
 """19. Boundary Traversal (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def boundary(root: TreeNode | None) -> list[int]:

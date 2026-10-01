@@ -1,6 +1,6 @@
 """26. Ancestors in Binary Tree (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def ancestors(root: TreeNode | None, target: int) -> list[int]:

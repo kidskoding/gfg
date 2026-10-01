@@ -1,6 +1,6 @@
 """40. Clone a Linked List with Random Pointers (GFG, hard)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def clone_random(head: ListNode | None) -> ListNode | None:

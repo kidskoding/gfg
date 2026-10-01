@@ -1,6 +1,6 @@
 """25. Add Two Numbers Represented by Linked Lists (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def add_numbers(a: ListNode | None, b: ListNode | None) -> ListNode | None:

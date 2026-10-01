@@ -1,6 +1,6 @@
 """35. Remove Loop in Linked List (GFG, hard)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def remove_loop(head: ListNode | None) -> None:

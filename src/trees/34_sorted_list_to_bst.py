@@ -5,7 +5,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Any
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 @dataclass(eq=False)

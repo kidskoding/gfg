@@ -1,6 +1,6 @@
 """07. Delete Middle (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def delete_middle(head: ListNode | None) -> ListNode | None:

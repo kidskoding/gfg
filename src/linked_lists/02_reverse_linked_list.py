@@ -1,6 +1,6 @@
 """02. Reverse a Linked List (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def reverse(head: ListNode | None) -> ListNode | None:

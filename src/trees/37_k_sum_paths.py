@@ -1,6 +1,6 @@
 """37. K-Sum Paths (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def k_sum_paths(root: TreeNode | None, k: int) -> int:

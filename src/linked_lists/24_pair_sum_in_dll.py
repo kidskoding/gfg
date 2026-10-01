@@ -1,6 +1,6 @@
 """24. Pair Sum in Doubly Linked List (GFG, medium)."""
 
-from linked_lists.linked_list import DListNode
+from linked_lists import DListNode
 
 
 def pair_sum(head: DListNode | None, target: int) -> list[tuple[int, int]]:

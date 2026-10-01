@@ -1,6 +1,6 @@
 """26. Multiply Two Numbers Represented by Linked Lists (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 MOD = 1_000_000_007
 

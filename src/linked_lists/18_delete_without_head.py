@@ -1,6 +1,6 @@
 """18. Delete without Head Pointer (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def delete_node(node: ListNode) -> None:

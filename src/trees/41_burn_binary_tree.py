@@ -1,6 +1,6 @@
 """41. Burn Binary Tree (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def burn_time(root: TreeNode | None, target: int) -> int:

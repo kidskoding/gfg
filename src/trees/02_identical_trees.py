@@ -1,6 +1,6 @@
 """02. Identical Trees (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_identical(a: TreeNode | None, b: TreeNode | None) -> bool:

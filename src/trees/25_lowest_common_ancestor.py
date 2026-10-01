@@ -1,6 +1,6 @@
 """25. Lowest Common Ancestor of a Binary Tree (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def lca(root: TreeNode | None, a: int, b: int) -> TreeNode | None:

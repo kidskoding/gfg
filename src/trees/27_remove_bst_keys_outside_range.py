@@ -1,6 +1,6 @@
 """27. Remove BST Keys Outside the Given Range (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def remove_outside_range(root: TreeNode | None, low: int, high: int) -> TreeNode | None:

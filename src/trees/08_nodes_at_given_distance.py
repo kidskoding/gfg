@@ -1,7 +1,7 @@
 """08. Nodes at Given Distance (GFG, easy)."""
 from collections import deque
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def k_distance(root: TreeNode | None, target: int, k: int) -> list[int]:

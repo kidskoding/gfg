@@ -1,6 +1,6 @@
 """11. Check if a Binary Tree is a Min Heap (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_min_heap(root: TreeNode | None) -> bool:

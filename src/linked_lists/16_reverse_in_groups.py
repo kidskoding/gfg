@@ -1,6 +1,6 @@
 """16. Reverse in Groups (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def reverse_in_groups(head: ListNode | None, k: int) -> ListNode | None:

@@ -1,6 +1,6 @@
 """09. Circular List Traversal (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def circular_values(head: ListNode | None) -> list:

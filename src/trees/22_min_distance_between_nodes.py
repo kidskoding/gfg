@@ -1,6 +1,6 @@
 """22. Minimum Distance Between Two Nodes (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def min_distance(root: TreeNode | None, a: int, b: int) -> int:

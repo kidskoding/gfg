@@ -1,6 +1,6 @@
 """Test-only helpers for building and inspecting linked lists (sorting topic)."""
 
-from sorting.linked_list import ListNode
+from sorting import ListNode
 
 MAX_NODES = 10_000  # guard against cycles so a wrong solution fails instead of hanging
 

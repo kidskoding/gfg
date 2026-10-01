@@ -1,6 +1,6 @@
 """15. Single Valued Subtree (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def single_valued_count(root: TreeNode | None) -> int:

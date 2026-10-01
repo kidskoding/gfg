@@ -1,6 +1,6 @@
 """04. Rotate a Linked List (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def rotate(head: ListNode | None, k: int) -> ListNode | None:

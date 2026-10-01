@@ -1,6 +1,6 @@
 """09. Inorder Successor in BST (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def inorder_successor(root: TreeNode | None, x: int) -> int:

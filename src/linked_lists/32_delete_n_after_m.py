@@ -1,6 +1,6 @@
 """32. Delete N Nodes after M (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def skip_m_delete_n(head: ListNode | None, m: int, n: int) -> ListNode | None:

@@ -1,6 +1,6 @@
 """01. Height of Binary Tree (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def height(root: TreeNode | None) -> int:

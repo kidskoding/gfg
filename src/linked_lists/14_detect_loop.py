@@ -1,6 +1,6 @@
 """14. Detect Loop (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def has_loop(head: ListNode | None) -> bool:

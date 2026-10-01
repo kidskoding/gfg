@@ -1,6 +1,6 @@
 """30. Linked List from a 2D Matrix (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def from_matrix(matrix: list[list]) -> ListNode | None:

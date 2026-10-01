@@ -3,7 +3,7 @@
 from collections import deque
 
 from helpers import load
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def build(values):

@@ -1,6 +1,6 @@
 """23. Split a Circular Linked List into Two Halves (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def split_circular(head: ListNode | None) -> tuple[ListNode | None, ListNode | None]:

@@ -1,6 +1,6 @@
 """20. Tree from Preorder and Inorder Traversal (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def build_from_pre_in(preorder: list[int], inorder: list[int]) -> TreeNode | None:

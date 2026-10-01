@@ -1,6 +1,6 @@
 """05. Balanced Tree (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_balanced(root: TreeNode | None) -> bool:

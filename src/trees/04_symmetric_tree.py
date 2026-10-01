@@ -1,5 +1,5 @@
 """04. Symmetric Tree (GFG, easy)."""
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_symmetric(root: TreeNode | None) -> bool:

@@ -1,6 +1,6 @@
 """12. Pairwise Swap (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def pairwise_swap(head: ListNode | None) -> ListNode | None:

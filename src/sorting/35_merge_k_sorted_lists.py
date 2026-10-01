@@ -1,6 +1,6 @@
 """35. Merge K sorted linked lists (GFG, hard)."""
 
-from sorting.linked_list import ListNode
+from sorting import ListNode
 
 
 def merge_k_lists(lists: list[ListNode | None]) -> ListNode | None:

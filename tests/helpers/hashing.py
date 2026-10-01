@@ -1,6 +1,6 @@
 """Test-only helpers for building and inspecting linked lists."""
 
-from hashing.linked_list import ListNode
+from hashing import ListNode
 
 
 def build_list(values):

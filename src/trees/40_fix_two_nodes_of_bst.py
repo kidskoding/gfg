@@ -1,6 +1,6 @@
 """40. Fixing Two Nodes of a BST (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def fix_bst(root: TreeNode | None) -> None:

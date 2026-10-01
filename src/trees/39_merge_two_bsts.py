@@ -1,6 +1,6 @@
 """39. Merge Two BSTs (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def merge_bsts(a: TreeNode | None, b: TreeNode | None) -> list[int]:

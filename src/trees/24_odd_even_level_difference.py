@@ -1,6 +1,6 @@
 """24. Odd Even Level Difference (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def odd_even_diff(root: TreeNode | None) -> int:

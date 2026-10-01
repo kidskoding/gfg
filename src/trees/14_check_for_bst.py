@@ -1,6 +1,6 @@
 """14. Check for BST (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_bst(root: TreeNode | None) -> bool:

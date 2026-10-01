@@ -1,6 +1,6 @@
 """42. Clone Binary Tree with Random Pointer (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def clone_random(root: TreeNode | None) -> TreeNode | None:

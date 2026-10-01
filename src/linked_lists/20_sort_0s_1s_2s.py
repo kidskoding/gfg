@@ -1,6 +1,6 @@
 """20. Sort a List of 0s, 1s and 2s (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def sort_012(head: ListNode | None) -> ListNode | None:

@@ -1,6 +1,6 @@
 """24. Merge k Sorted Lists (GFG, hard)."""
 
-from heaps.list_node import ListNode
+from heaps import ListNode
 
 
 def merge_k_lists(lists: list[ListNode | None]) -> ListNode | None:

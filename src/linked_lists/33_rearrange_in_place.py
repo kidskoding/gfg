@@ -1,6 +1,6 @@
 """33. Rearrange a Given Linked List In-Place (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def reorder(head: ListNode | None) -> None:

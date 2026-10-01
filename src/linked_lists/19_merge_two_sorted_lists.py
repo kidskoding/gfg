@@ -1,6 +1,6 @@
 """19. Merge Two Sorted Linked Lists (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def merge_sorted(a: ListNode | None, b: ListNode | None) -> ListNode | None:

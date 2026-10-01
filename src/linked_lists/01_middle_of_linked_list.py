@@ -1,6 +1,6 @@
 """01. Middle of a Linked List (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def middle(head: ListNode | None) -> ListNode | None:

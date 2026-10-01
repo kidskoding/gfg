@@ -1,6 +1,6 @@
 """21. BST from Preorder Traversal (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def bst_from_preorder(preorder: list[int]) -> TreeNode | None:

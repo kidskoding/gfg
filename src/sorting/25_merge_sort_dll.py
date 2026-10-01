@@ -1,6 +1,6 @@
 """25. Merge Sort for Doubly Linked List (GFG, medium)."""
 
-from sorting.linked_list import ListNode
+from sorting import ListNode
 
 
 def merge_sort_dll(head: ListNode | None) -> ListNode | None:

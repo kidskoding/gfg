@@ -1,6 +1,6 @@
 """13. Check if Subtree (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def is_subtree(t: TreeNode | None, s: TreeNode | None) -> bool:

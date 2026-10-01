@@ -1,6 +1,6 @@
 """06. Delete Last Occurrence (GFG, easy)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def delete_last_occurrence(head: ListNode | None, key: object) -> ListNode | None:

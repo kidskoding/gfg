@@ -1,6 +1,6 @@
 """39. Print Binary Tree levels in sorted order (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def levels_sorted(root: TreeNode | None) -> list[list[int]]:

@@ -1,6 +1,6 @@
 """27. Swap Kth Nodes from Beginning and End (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def swap_kth(head: ListNode | None, k: int) -> ListNode | None:

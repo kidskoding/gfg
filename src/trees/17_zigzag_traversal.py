@@ -1,6 +1,6 @@
 """17. Zigzag Tree Traversal (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def zigzag(root: TreeNode | None) -> list[int]:

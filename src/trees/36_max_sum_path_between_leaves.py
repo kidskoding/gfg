@@ -1,6 +1,6 @@
 """36. Maximum Sum Path Between Two Leaves (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def max_leaf_path_sum(root: TreeNode | None) -> int:

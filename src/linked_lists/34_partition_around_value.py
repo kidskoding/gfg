@@ -1,6 +1,6 @@
 """34. Partition Around a Given Value (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def partition(head: ListNode | None, x: int) -> ListNode | None:

@@ -1,6 +1,6 @@
 """30. Maximum Sum of Non-Adjacent Nodes (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def max_non_adjacent_sum(root: TreeNode | None) -> int:

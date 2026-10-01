@@ -1,6 +1,6 @@
 """12. Diameter of Tree (GFG, medium)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def diameter(root: TreeNode | None) -> int:

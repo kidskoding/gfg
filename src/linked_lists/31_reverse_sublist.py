@@ -1,6 +1,6 @@
 """31. Reverse a Sublist (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def reverse_between(head: ListNode | None, m: int, n: int) -> ListNode | None:

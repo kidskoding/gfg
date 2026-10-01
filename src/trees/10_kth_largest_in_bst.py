@@ -1,6 +1,6 @@
 """10. Kth Largest Element in a BST (GFG, easy)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def kth_largest(root: TreeNode | None, k: int) -> int:

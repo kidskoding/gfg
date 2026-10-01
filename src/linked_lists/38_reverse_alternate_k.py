@@ -1,6 +1,6 @@
 """38. Reverse Alternate K Nodes (GFG, hard)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def reverse_alternate_k(head: ListNode | None, k: int) -> ListNode | None:

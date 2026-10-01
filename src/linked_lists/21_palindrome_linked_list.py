@@ -1,6 +1,6 @@
 """21. Palindrome Linked List (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def is_palindrome(head: ListNode | None) -> bool:

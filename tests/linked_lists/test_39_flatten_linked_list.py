@@ -4,7 +4,7 @@ import pytest
 from helpers import load
 from helpers.linked_lists import LIMIT
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 flatten = load("linked_lists.39_flatten_linked_list").flatten
 

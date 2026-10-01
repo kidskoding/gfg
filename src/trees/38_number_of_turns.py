@@ -1,6 +1,6 @@
 """38. Number of Turns in a Binary Tree (GFG, hard)."""
 
-from trees.tree import TreeNode
+from trees import TreeNode
 
 
 def count_turns(root: TreeNode | None, a: int, b: int) -> int:

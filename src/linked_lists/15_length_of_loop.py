@@ -1,6 +1,6 @@
 """15. Length of the Loop (GFG, medium)."""
 
-from linked_lists.linked_list import ListNode
+from linked_lists import ListNode
 
 
 def loop_length(head: ListNode | None) -> int:

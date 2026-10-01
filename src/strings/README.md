@@ -1,0 +1,62 @@
+# Strings
+
+Source: [top 50 string coding problems for interviews](https://www.geeksforgeeks.org/dsa/top-50-string-coding-problems-for-interviews/)
+
+## Easy
+
+1. [Palindrome Check](https://www.geeksforgeeks.org/dsa/palindrome-string/) — [`01_palindrome_check.py`](01_palindrome_check.py)
+2. [Reverse a String](https://www.geeksforgeeks.org/dsa/reverse-a-string/) — [`02_reverse_string.py`](02_reverse_string.py)
+3. [Reverse Words](https://www.geeksforgeeks.org/dsa/reverse-words-in-a-given-string/) — [`03_reverse_words.py`](03_reverse_words.py)
+4. [Check for Rotation](https://www.geeksforgeeks.org/dsa/a-program-to-check-if-strings-are-rotations-of-each-other/) — [`04_check_for_rotation.py`](04_check_for_rotation.py)
+5. [First Non Repeating](https://www.geeksforgeeks.org/dsa/given-a-string-find-its-first-non-repeating-character/) — [`05_first_non_repeating.py`](05_first_non_repeating.py)
+6. [Roman to Integer](https://www.geeksforgeeks.org/dsa/roman-number-to-integer/) — [`06_roman_to_integer.py`](06_roman_to_integer.py)
+7. [Implement Atoi](https://www.geeksforgeeks.org/dsa/write-your-own-atoi/) — [`07_implement_atoi.py`](07_implement_atoi.py)
+8. [Encrypt the String – II](https://www.geeksforgeeks.org/dsa/encrypt-the-string-2/) — [`08_encrypt_the_string.py`](08_encrypt_the_string.py)
+9. [Equal Point in Brackets](https://www.geeksforgeeks.org/dsa/find-equal-point-string-brackets/) — [`09_equal_point_brackets.py`](09_equal_point_brackets.py)
+10. [Anagram Checking](https://www.geeksforgeeks.org/dsa/check-whether-two-strings-are-anagram-of-each-other/) — [`10_anagram_check.py`](10_anagram_check.py)
+11. [Panagram Checking](https://www.geeksforgeeks.org/dsa/pangram-checking/) — [`11_pangram_check.py`](11_pangram_check.py)
+12. [Validate IP Address](https://www.geeksforgeeks.org/dsa/program-to-validate-an-ip-address/) — [`12_validate_ip_address.py`](12_validate_ip_address.py)
+13. [Add Binary Strings](https://www.geeksforgeeks.org/dsa/program-to-add-two-binary-strings/) — [`13_add_binary_strings.py`](13_add_binary_strings.py)
+
+## Medium
+
+14. [Integer to Words](https://www.geeksforgeeks.org/dsa/program-to-convert-a-given-number-to-words-set-2/) — [`14_integer_to_words.py`](14_integer_to_words.py)
+15. [Fizz Buzz](https://www.geeksforgeeks.org/dsa/fizz-buzz-implementation/) — [`15_fizz_buzz.py`](15_fizz_buzz.py)
+16. [Palindromic Sentence Check](https://www.geeksforgeeks.org/dsa/sentence-palindrome-palindrome-removing-spaces-dots-etc/) — [`16_palindromic_sentence.py`](16_palindromic_sentence.py)
+17. [Isomorphic Strings](https://www.geeksforgeeks.org/dsa/check-if-two-given-strings-are-isomorphic-to-each-other/) — [`17_isomorphic_strings.py`](17_isomorphic_strings.py)
+18. [Check for k-anagram](https://www.geeksforgeeks.org/dsa/check-two-strings-k-anagrams-not/) — [`18_k_anagram.py`](18_k_anagram.py)
+19. [Equal 0,1, and 2](https://www.geeksforgeeks.org/dsa/substring-equal-number-0-1-2/) — [`19_equal_012_substrings.py`](19_equal_012_substrings.py)
+20. [Find and replace in String](https://www.geeksforgeeks.org/dsa/find-and-replace-all-occurrence-of-a-substring-in-the-given-string/) — [`20_find_and_replace.py`](20_find_and_replace.py)
+21. [Look and say Pattern](https://www.geeksforgeeks.org/dsa/look-and-say-sequence/) — [`21_look_and_say.py`](21_look_and_say.py)
+22. [Minimum repetitions to make Substring](https://www.geeksforgeeks.org/dsa/minimum-number-of-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it/) — [`22_min_repeats_substring.py`](22_min_repeats_substring.py)
+23. [Excel Sheet – I](https://www.geeksforgeeks.org/dsa/find-excel-column-name-given-number/) — [`23_excel_column_name.py`](23_excel_column_name.py)
+24. [Find the N-th character](https://www.geeksforgeeks.org/dsa/find-ith-index-character-in-a-binary-string-obtained-after-n-iterations/) — [`24_nth_character.py`](24_nth_character.py)
+25. [Next Palindromic Number with same digits](https://www.geeksforgeeks.org/dsa/next-higher-palindromic-number-using-set-digits/) — [`25_next_palindrome_same_digits.py`](25_next_palindrome_same_digits.py)
+26. [Length of longest prefix suffix](https://www.geeksforgeeks.org/dsa/longest-prefix-also-suffix/) — [`26_longest_prefix_suffix.py`](26_longest_prefix_suffix.py)
+27. [Longest K unique characters substring](https://www.geeksforgeeks.org/dsa/find-the-longest-substring-with-k-unique-characters-in-a-given-string/) — [`27_longest_k_unique_substring.py`](27_longest_k_unique_substring.py)
+28. [Smallest window containing all](https://www.geeksforgeeks.org/dsa/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/) — [`28_smallest_window_containing_all.py`](28_smallest_window_containing_all.py)
+29. [Longest substring without repeating characters](https://www.geeksforgeeks.org/dsa/length-of-the-longest-substring-without-repeating-characters/) — [`29_longest_unique_substring.py`](29_longest_unique_substring.py)
+30. [Substrings of length k with k-1 distinct elements](https://www.geeksforgeeks.org/dsa/count-of-substrings-of-length-k-with-exactly-k-distinct-characters/) — [`30_k_minus_1_distinct_substrings.py`](30_k_minus_1_distinct_substrings.py)
+31. [Count number of substrings](https://www.geeksforgeeks.org/dsa/count-number-of-substrings-with-exactly-k-distinct-characters/) — [`31_count_k_distinct_substrings.py`](31_count_k_distinct_substrings.py)
+32. [Interleaved Strings](https://www.geeksforgeeks.org/dsa/find-if-a-string-is-interleaved-of-two-other-strings-dp-33/) — [`32_interleaved_strings.py`](32_interleaved_strings.py)
+33. [Print Anagrams together](https://www.geeksforgeeks.org/dsa/given-a-sequence-of-words-print-all-anagrams-together/) — [`33_anagrams_together.py`](33_anagrams_together.py)
+34. [Rank the permutation](https://www.geeksforgeeks.org/dsa/lexicographic-rank-of-a-string/) — [`34_permutation_rank.py`](34_permutation_rank.py)
+35. [A Special Keyboard](https://www.geeksforgeeks.org/dsa/how-to-print-maximum-number-of-a-using-given-four-keys/) — [`35_special_keyboard.py`](35_special_keyboard.py)
+36. [Sum of two large numbers](https://www.geeksforgeeks.org/dsa/sum-two-large-numbers/) — [`36_sum_large_numbers.py`](36_sum_large_numbers.py)
+
+## Hard
+
+37. [Repeatedly Remove Duplicates](https://www.geeksforgeeks.org/dsa/reduce-the-string-by-removing-k-consecutive-identical-characters/) — [`37_repeatedly_remove_duplicates.py`](37_repeatedly_remove_duplicates.py)
+38. [Multiply Two Strings](https://www.geeksforgeeks.org/dsa/multiply-large-numbers-represented-as-strings/) — [`38_multiply_strings.py`](38_multiply_strings.py)
+39. [Search Pattern (KMP-Algorithm)](https://www.geeksforgeeks.org/dsa/kmp-algorithm-for-pattern-searching/) — [`39_kmp_search.py`](39_kmp_search.py)
+40. [Search Pattern (Rabin-Karp Algorithm)](https://www.geeksforgeeks.org/dsa/rabin-karp-algorithm-for-pattern-searching/) — [`40_rabin_karp_search.py`](40_rabin_karp_search.py)
+41. [Shortest Common Supersequence](https://www.geeksforgeeks.org/dsa/shortest-common-supersequence/) — [`41_shortest_common_supersequence.py`](41_shortest_common_supersequence.py)
+42. [Longest substring to form a Palindrome](https://www.geeksforgeeks.org/dsa/longest-substring-whose-characters-can-be-rearranged-to-form-a-palindrome/) — [`42_longest_palindrome_rearrange.py`](42_longest_palindrome_rearrange.py)
+43. [Longest Valid Parenthesis](https://www.geeksforgeeks.org/dsa/length-of-the-longest-valid-substring/) — [`43_longest_valid_parentheses.py`](43_longest_valid_parentheses.py)
+44. [Longest Palindromic Subsequence](https://www.geeksforgeeks.org/dsa/longest-palindromic-subsequence-dp-12/) — [`44_longest_palindromic_subsequence.py`](44_longest_palindromic_subsequence.py)
+45. [Distinct Palindromic Substrings](https://www.geeksforgeeks.org/dsa/find-number-distinct-palindromic-sub-strings-given-string/) — [`45_distinct_palindromic_substrings.py`](45_distinct_palindromic_substrings.py)
+46. [Palindrome Substring Queries](https://www.geeksforgeeks.org/dsa/palindrome-substring-queries/) — [`46_palindrome_substring_queries.py`](46_palindrome_substring_queries.py)
+47. [Number of Distinct Subsequences](https://www.geeksforgeeks.org/dsa/count-distinct-subsequences/) — [`47_distinct_subsequences.py`](47_distinct_subsequences.py)
+48. [Minimum Deletions for Palindrome](https://www.geeksforgeeks.org/dsa/minimum-number-deletions-make-string-palindrome/) — [`48_min_deletions_palindrome.py`](48_min_deletions_palindrome.py)
+49. [Minimum Insertions for Palindrome](https://www.geeksforgeeks.org/dsa/minimum-insertions-to-form-a-palindrome-dp-28/) — [`49_min_insertions_palindrome.py`](49_min_insertions_palindrome.py)
+50. [Max Non-Overlapping Odd Palindrome Sum](https://www.geeksforgeeks.org/dsa/max-palindrome-sum/) — [`50_max_odd_palindrome_sum.py`](50_max_odd_palindrome_sum.py)

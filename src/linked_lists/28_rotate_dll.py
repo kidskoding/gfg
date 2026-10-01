@@ -1,6 +1,6 @@
 """28. Rotate Doubly Linked List by N Nodes (GFG, medium)."""
 
-from linked_lists.linked_list import DListNode
+from linked_lists import DListNode
 
 
 def rotate_dll(head: DListNode | None, n: int) -> DListNode | None:

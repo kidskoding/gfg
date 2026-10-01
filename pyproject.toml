@@ -1,7 +1,7 @@
 [project]
-name = "tree-problem-set"
+name = "gfg"
 version = "0.1.0"
-description = "gfg tree problems for coding interviews!"
+description = "gfg data structures and algorithms problems for coding interviews"
 readme = "README.md"
 authors = [
     { name = "Anirudh Konidala", email = "anirudhkonidala@gmail.com" }
@@ -14,5 +14,6 @@ dependencies = [
 ]
 
 [tool.pytest.ini_options]
-pythonpath = ["src"]
+pythonpath = ["src", "tests"]
 testpaths = ["tests"]
+addopts = ["--import-mode=importlib"]

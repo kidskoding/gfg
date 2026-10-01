@@ -16,7 +16,7 @@ jobs:
         uses: astral-sh/setup-uv@v5
 
       - name: Sync development environment
-        run: uv sync --group dev
+        run: uv sync
 
       - name: Check Python style
         run: |

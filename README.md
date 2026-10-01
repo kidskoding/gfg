@@ -9,10 +9,10 @@ Each `src/<topic>/README.md` lists that topic's problems.
 ## Running tests
 
 ```
-pytest                                          # everything (inside nix develop / direnv)
+uv run pytest                                   # everything
 nix run .                                       # same, via the flake (optional)
-pytest tests/arrays                             # one topic
-pytest tests/trees/test_01_height_of_binary_tree.py   # one problem
+uv run pytest tests/arrays                      # one topic
+uv run pytest tests/trees/test_01_height_of_binary_tree.py   # one problem
 ```
 
 Each topic is a package: `src/<topic>/NN_<slug>.py` holds the stub, `tests/<topic>/test_NN_<slug>.py` its tests.

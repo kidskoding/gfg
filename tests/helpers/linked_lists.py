@@ -1,6 +1,7 @@
 """Test-only helpers for building and inspecting linked lists."""
 
-from linked_lists import DListNode, ListNode
+from core.dlist_node import DListNode
+from core.list_node import ListNode
 
 LIMIT = 10_000  # walks stop here so a cyclic list fails a test instead of hanging
 

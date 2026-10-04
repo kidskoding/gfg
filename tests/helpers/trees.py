@@ -3,7 +3,7 @@
 from collections import deque
 
 from helpers import load
-from trees import TreeNode
+from core.tree_node import TreeNode
 
 
 def build(values):
@@ -74,7 +74,7 @@ def is_height_balanced(root):
 
 
 def build_list(values):
-    ListNode = load("trees.34_sorted_list_to_bst").ListNode
+    ListNode = load("13_trees.34_sorted_list_to_bst").ListNode
     head = None
     for value in reversed(values):
         head = ListNode(value, head)

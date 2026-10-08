@@ -1,0 +1,22 @@
+name: nix ci
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  format:
+    runs-on: codeberg-small
+    steps:
+      - uses: actions/checkout@v4
+      - uses: https://github.com/DeterminateSystems/nix-installer-action@main
+      - run: nix run --inputs-from . nixpkgs#alejandra -- --check .
+
+  flake-check:
+    runs-on: codeberg-medium
+    steps:
+      - uses: actions/checkout@v4
+      - uses: https://github.com/DeterminateSystems/nix-installer-action@main
+      - run: nix flake check

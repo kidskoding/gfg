@@ -6,14 +6,14 @@ on:
 
 jobs:
   quality:
-    runs-on: ubuntu-latest
+    runs-on: codeberg-small
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: https://github.com/astral-sh/setup-uv@v5
 
       - name: Sync development environment
         run: uv sync

@@ -1,7 +1,7 @@
 # gfg
 
-gfg data structures and algorithms problems for coding interviews!
-
+gfg data structures and algorithms problems for coding interviews 🪧 
+ 
 Source: [GeeksforGeeks — Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe](https://www.geeksforgeeks.org/dsa/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 
 Each `src/<topic>/README.md` lists that topic's problems.
